@@ -1,1 +1,2 @@
 Hello Odin, again!
+THis is to test commit messages in VScode
